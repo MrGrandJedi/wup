@@ -7,7 +7,7 @@ import fs from "fs";
 // Load configuration from config.json
 dotenv.config();
 const config = JSON.parse(fs.readFileSync("./c.json", "utf-8"));
-const url = "https://enjoy.zenpai.art/";
+const url = "https://margot.9albifilmadina.shop/";
 let wasSuccessful;
 const MIN_BOTS = 1; // Minimum number of bots per batch
 const MAX_BOTS = 1; // Maximum number of bots per batch
