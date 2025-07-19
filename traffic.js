@@ -16,7 +16,7 @@ const MAX_BOTS = 1; // Maximum number of bots per batch
 const weightedLocations = {
   us: 20, // United States
   uk: 10, // United Kingdom
-  ca: 5, // Canada
+  ca: 2, // Canada
   kg: 2, // Kyrgyzstan
   sn: 2, // Senegal
   gh: 2, // Ghana
