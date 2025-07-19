@@ -14,8 +14,9 @@ const MAX_BOTS = 1; // Maximum number of bots per batch
 
 // Define the weighted locations for generating usernames
 const weightedLocations = {
-  us:20,
-  uk : 10,
+  us: 20, // United States
+  uk: 10, // United Kingdom
+  ca: 5, // Canada
   kg: 2, // Kyrgyzstan
   sn: 2, // Senegal
   gh: 2, // Ghana
